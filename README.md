@@ -1,7 +1,7 @@
 # Battleship Game
 
 A basic implementation of the popular battleship game played from the terminal. This game was created for my final project
-choice in CS120 at the University of Northern Colorado. 
+choice in CS160 at the University of Northern Colorado. 
 
 Functionality includes:
 1. Ships place randomly for the player and the computer.
